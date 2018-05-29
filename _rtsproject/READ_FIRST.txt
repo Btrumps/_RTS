@@ -1,0 +1,39 @@
+Here's to new beginnings in Game Development!
+
+This game was made in a little over a month in Javascript/HTML5 Canvas, with no engines/libraries used. This is the first game I've ever made on my own, with my first time making every possible asset (yes.. I apologize for the music not matching the theme.. and well the whole game's assets in general). The project was made for game programming fundamental practice. Throughout most of the development,  there was no intention to have my game played by the public. However, I feel that it's important to have my first work "out there", even if it's a pile of poo. Thanks for checking it out! 
+
+Almost all of the game was developed on stream at : https://twitch.tv/yammzlol and has been mainly inspired by Starcraft.
+
+- CONTROLS -
+
+Left Click to select units/buildings
+Right Click to send unit to destination or attack unit/building
+
+QWE and ASD to build Units and Buildings
+
+CTRL + any number  to add selected units/buildings to a control group
+
+Y to disable tips
+U to disable music
+
+Game too easy? Try pressing O for Hard mode and P for an even harder mode!
+
+
+
+- TIPS -
+
+It's REALLY important that you make workers whenever possible, and camps BEFORE you reach max supply.
+
+Don't stack up more than 150 wood at a time unless you're going for an armory upgrade, always be spending your resources!
+
+Once you have enough wood to build a Barracks, definitely do so! You can make military units, used to defend from your enemies attacks.
+
+Multitasking was one of the most important aspects in Starcraft, it is here too! You have to be fast and keeping track of your buildings queue's always be making units!
+
+More barracks means more camps, more often! Once you have multiple barracks, you'll need to designate a worker or two to constantly make camps.
+**The starter difficulty might be hard, don't give up! Like in Starcraft, the main things to always be doing are making workers and building camps before you reach max supply. **
+
+If you're having trouble and just want to feel the justice of winning, you can try running your workers at the enemy's base at the start of the game ;) 
+
+(definitely try to win the regular way after :D )
+
